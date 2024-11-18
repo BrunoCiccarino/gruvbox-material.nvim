@@ -72,7 +72,7 @@ Gruvbox.config = {
 ---@class GruvboxPalette
 Gruvbox.palette = {
   dark0_hard = "#070808",
-  dark0 = "#292828",
+  dark0 = "#181818",
   dark0_soft = "#32302f",
   dark1 = "#3c3836",
   dark2 = "#504945",
@@ -91,7 +91,7 @@ Gruvbox.palette = {
   bright_blue = "#83a598",
   bright_purple = "#d3869b",
   bright_aqua = "#8ec07c",
-  bright_orange = "#fe8019",
+  bright_orange = "#bd6f3e",
   neutral_red = "#cc241d",
   neutral_green = "#98971a",
   neutral_yellow = "#d79921",
@@ -1230,7 +1230,7 @@ end
 --- main load function
 Gruvbox.load = function()
   if vim.version().minor < 8 then
-    vim.notify_once("gruvbox-material.nvim: you must use neovim 0.8 or higher")
+    vim.notify_once("gruverboxer-material.nvim: you must use neovim 0.8 or higher")
     return
   end
 
@@ -1238,7 +1238,7 @@ Gruvbox.load = function()
   if vim.g.colors_name then
     vim.cmd.hi("clear")
   end
-  vim.g.colors_name = "gruvbox-material"
+  vim.g.colors_name = "gruverboxer-material"
   vim.o.termguicolors = true
 
   local groups = get_groups()
