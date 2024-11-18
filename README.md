@@ -4,7 +4,7 @@ Gruverboxer Material for Neovim, This is a fork of the gruvbox.nvim theme.
 
 ## Themes:
 
-![gruvbox-dark](./img/01.jpg)
+![gruvbox-dark](./img/02.jpg)
 
 ### See aslo:
 
