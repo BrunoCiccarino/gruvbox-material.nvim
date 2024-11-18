@@ -8,15 +8,15 @@ Gruverboxer Material for Neovim, This is a fork of the gruvbox.nvim theme.
 
 ### See aslo:
 
-[gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
-[gruvbox](https://github.com/gruvbox-community/gruvbox)
-[gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode)
-[gruber-darker](https://github.com/rexim/gruber-darker-theme)
+- [gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
+- [gruvbox](https://github.com/gruvbox-community/gruvbox)
+- [gruvbox-material-vscode](https://github.com/sainnhe/gruvbox-material-vscode)
+- [gruber-darker](https://github.com/rexim/gruber-darker-theme)
 
 ### Palette
 | **Color** | Hex | 
 |-----------------|------|
-| dark0_hard                |   "#070808"   |                                          
+| dark0_hard                |   #070808   |                                          
 | dark0                |   #181818   |                                           
 | dark0_soft                |  #32302f    |        
 | dark1                |  #3c3836    |
