@@ -1,7 +1,7 @@
----@class Gruvbox-material
+---@class Gruvbox
 ---@field config GruvboxConfig
 ---@field palette GruvboxPalette
-local Gruvbox-material = {}
+local Gruvbox = {}
 
 ---@alias Contrast "hard" | "soft" | ""
 
@@ -86,7 +86,7 @@ Gruvbox.palette = {
   light3 = "#bdae93",
   light4 = "#a89984",
   bright_red = "#fb4934",
-  bright_green = "#b8bb26",
+  bright_green = "#8f9a52",
   bright_yellow = "#fabd2f",
   bright_blue = "#83a598",
   bright_purple = "#d3869b",
