@@ -2,6 +2,18 @@
 
 Gruverboxer Material for Neovim, This is a fork of the gruvbox.nvim theme. 
 
+## Install:
+
+- Lazy.Nvim:
+
+```lua  
+  {
+    "BrunoCiccarino/gruverboxer-material.nvim",
+    priority = 1000,
+    config = true,
+  },
+```
+
 ## Themes:
 
 ![gruvbox-dark](./img/02.jpg)
@@ -32,7 +44,7 @@ Gruverboxer Material for Neovim, This is a fork of the gruvbox.nvim theme.
 | light4                |  #a89984    |
 | bright_red                |  #fb4934    |
 | bright_green                |  #8f9a52    |
-| bright_yellow                |  #fabd2f    |
+| bright_yellow                |  #ffdd33    |
 | bright_blue                |  #83a598     |   
 | bright_purple                |  #d3869b    |
 | bright_aqua                |  #8ec07c    |
